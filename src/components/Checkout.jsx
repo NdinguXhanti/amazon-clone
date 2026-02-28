@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 import { ZAR_CURRENCY } from "../utils/constants";
 
